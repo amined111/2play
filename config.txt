@@ -1,6 +1,6 @@
 token=NTE2Mzc4NzE2ODYzOTg3NzIz.DtyyuQ.k9_ouwR8uun2dezKIFgXSfY9giw 
 owner=485917652120764429 
-prefix= 2
-game= 2help
+prefix= 8
+game= MADE BY LOVE
 stayinchannel=true
 songinstatus=true 
